@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cat Breed</string>
+    <string name="ras_kucing">Ras Kucing</string>
+    <string name="lifespan">lifespan</string>
+    <string name="about_user">About User</string>
+    <string name="origin">origin</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+</resources>
